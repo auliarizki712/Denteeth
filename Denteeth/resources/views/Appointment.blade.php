@@ -23,7 +23,7 @@
         <div class="row">
             <div class="col-md-6 px-md-0 my-auto">
                 <div class="headline">
-                    Dentist Care <span class="cl-light-blue">Finance</span>
+                    Dentist Care <span class="cl-light-blue">Denteeth</span>
                 </div>
                 <div class="sub-headline">
                     We care about your smile
